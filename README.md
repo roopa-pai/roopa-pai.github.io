@@ -15,6 +15,7 @@ Personal website of Roopa Pai
 
 P.S.: This website is under construction!
 ![construction](./noun_Construction_2354085.svg)
+<img src="./noun_Construction_2354085.svg">
 
 
 ### Contact information
