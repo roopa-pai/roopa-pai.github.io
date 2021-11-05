@@ -1,5 +1,5 @@
 ## Roopa Pai
-Personal website of Roopa K. Pai
+Personal website of Roopa Pai
 
 ### Qualifications
 - MSc Neurosciences
